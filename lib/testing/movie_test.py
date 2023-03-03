@@ -1,6 +1,6 @@
 import pytest
 
-from movie import Movie
+from lib.movie import Movie
 
 class TestMovie:
     '''Movie in movie.py'''
